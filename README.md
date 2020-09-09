@@ -2,13 +2,9 @@
 <h3 align="center">A Full Stack developer from VietNam with ❤</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanminpay" alt="tuanminpay" /> </p>
 
-- 🔭 I’m currently working on [BaoNgay.Net](https://www.baongay.net/)
-
 - 👯 I’m looking to collaborate on [ChiaSeAnh.Net](https://www.chiaseanh.net/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/TuanMinPay?tab=repositories](https://github.com/TuanMinPay?tab=repositories)
-
-- 📝 I regulary write articles on [https://www.baongay.net/](https://www.baongay.net/)
 
 - 💬 Ask me about **Node.js, Angular**
 
