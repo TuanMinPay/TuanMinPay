@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on [BotXin.Net](https://www.botxin.net/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TuanMinPay?tab=repositories](https://github.com/TuanMinPay?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories Tab](https://github.com/TuanMinPay?tab=repositories)
 
 - 💬 Ask me about **Node.js, Angular, Tools**
 
