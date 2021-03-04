@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./me.png" height="200"/>
+</p>
+<hr>
 <h1 align="center">Hi 👋, I'm Ngo Van Tuan</h1>
 <h3 align="center">A Full Stack developer from VietNam with ❤</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanminpay" alt="tuanminpay" /> </p>
