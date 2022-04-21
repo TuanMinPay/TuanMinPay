@@ -6,11 +6,9 @@
 <h3 align="center">A Full Stack developer from VietNam with ❤</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanminpay" alt="tuanminpay" /> </p>
 
-- 👯 I’m looking to collaborate on [BotXin.Net](https://www.botxin.net/)
-
 - 👨‍💻 All of my projects are available at [Repositories Tab](https://github.com/TuanMinPay?tab=repositories)
 
-- 💬 Ask me about **Node.js, Angular, Tools**
+- 💬 Ask me about **Node.js, ReactJs, Tools, ...**
 
 - 📫 How to reach me **contact.tuannv@gmail.com**
 
