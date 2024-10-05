@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="./hi.gif" width="30px">, I'm Ngo Van Tuan</h1>
-<h3 align="center">A Full Stack developer from VietNam with ❤</h3>
+<h3 align="center">A Senior Software Engineer from VietNam with ❤</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanminpay" alt="tuanminpay" /> </p>
 
 - 👨‍💻 All of my projects are available at [Repositories Tab](https://github.com/TuanMinPay?tab=repositories)
